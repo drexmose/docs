@@ -1,3 +1,5 @@
+## drex bot powered by drex_mose
+
 ---
 title: Working with the npm registry
 intro: 'You can configure npm to publish packages to {% data variables.product.prodname_registry %} and to use packages stored on {% data variables.product.prodname_registry %} as dependencies in an npm project.'
